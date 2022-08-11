@@ -1,0 +1,22 @@
+.search{
+    position: absolute;
+    right: 15px;
+    margin-top: -32px;
+}
+.home{
+    padding-left: 5px;
+    font-size: 1.5em;
+}
+.header{
+    position: relative;
+    opacity: 0.9;
+    height: 25px;
+}
+.btn{
+    font-size: 1.1em;
+    background-color: rgb(251, 252, 253,0);
+    border: 0;
+    position: absolute;
+    right: 0px;
+    top: 3px;
+}

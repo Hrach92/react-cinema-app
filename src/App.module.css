@@ -1,0 +1,44 @@
+.home{
+    background-color: rgb(79, 245, 57);
+    min-height:636px
+}
+.genres{
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+    margin-left: 200px;
+}
+.genreList{
+    width: 150px;
+    font-weight: 600;
+    text-decoration: none;
+    text-align: center;
+    padding: 5px 0;
+    margin: 2px 10px;
+    border-radius: 5px;
+    background-color: rgb(97, 97, 212);
+    cursor: pointer;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+.popular{
+    display: flex;
+    flex-wrap: wrap;
+    width: 850px;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.image{
+    width: 150px;
+    border-radius: 5px;
+}
+.title{
+    width: 150px;
+    text-align: center;
+}
+.popularMovie{
+    cursor: pointer;
+    margin: 10px;
+}
